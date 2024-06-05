@@ -1,0 +1,76 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url('1.jpeg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  } */
+  body{
+    /* margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('f.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; */
+  }
+  
+  .HOME{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('f.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  .home-background{
+    font-family: Arial, sans-serif;
+    background-image: url('qb.jpeg');
+    background-size: 100% 100%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+.containe{
+    text-align: center; 
+    margin-top: 500px;
+    margin-right: 50px;
+    margin-left: 60px;
+    
+    margin-bottom: 100px; 
+  }
+  .buttons SignIn:hover {
+   border: 1px solid blue;
+  }
+  
+  .button {
+    margin: 0 10px; /* Adjust spacing between buttons */
+    padding: 10px 20px;
+    background-color:purple; /* Example button color */
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    display: inline-block; /* Ensure buttons are displayed inline */
+  }
+  
+  .space {
+    width: 200px; /* Adjust space width between buttons */
+  }
+    
